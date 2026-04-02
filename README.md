@@ -1,1 +1,1 @@
-I created Changable movement mechanic in Unity.
+I created Changeable movement mechanic in Unity.
